@@ -1,0 +1,7 @@
+openai-whisper
+torch
+tqdm
+soundfile
+numpy
+transformers
+pydantic
